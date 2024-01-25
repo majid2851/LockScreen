@@ -45,7 +45,7 @@ To use this library you should implement these settings
 	}
  
 
-
+add this to dependecy
 
 
 	dependencies 
