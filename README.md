@@ -1,7 +1,8 @@
 
 Lock Screen Library for Jetpack Compose
 
-![Uploading Screenshot_1706186506.png…]()
+![Screenshot_1706186506](https://github.com/majid2851/LockScreen/assets/46685643/58452a96-23fb-4828-8ca4-dff7710521fb)
+
 
 
 
