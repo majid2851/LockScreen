@@ -1,5 +1,5 @@
 
-**<h1>Lock Screen Library for Jetpack Compose<h1/>**
+**<h2>Lock Screen Library for Jetpack Compose<h2/>**
 
 ![Screenshot_1706186506](https://github.com/majid2851/LockScreen/assets/46685643/58452a96-23fb-4828-8ca4-dff7710521fb) 
 ![232484028-c45a98a0-b1a6-4657-8b92-8ac9c7b96436 (1)](https://github.com/majid2851/LockScreen/assets/46685643/8244bd63-dcb7-42f7-87ce-854ee7c235d8)
